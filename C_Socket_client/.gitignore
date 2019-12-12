@@ -1,0 +1,11 @@
+﻿# Le dossier .vscode
+.vscode
+
+# Tous les .dll
+*.dll
+
+# Tous les exécutable.
+*.exe
+
+# Tous les .o
+*.o
